@@ -11,7 +11,7 @@ It was created as a practice project to strengthen **front-end development skill
 - Navigation bar with categories  
 - Product grid layout  
 - Banner section  
-- Responsive design using only HTML & CSS  
+- Designed using only HTML & CSS  
 
 ---
 
