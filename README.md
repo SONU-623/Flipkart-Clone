@@ -22,7 +22,7 @@ It was created as a practice project to strengthen **front-end development skill
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your project here)
+[Click here to view screenshots](Screenshots.pdf)
 
 ---
 
